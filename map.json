@@ -940,7 +940,7 @@
         {
          "columns":20,
          "firstgid":1138,
-         "image":"..\/tilesets\/logo-color.png",
+         "image":"tilesets\/logo-color.png",
          "imageheight":315,
          "imagewidth":643,
          "margin":0,
