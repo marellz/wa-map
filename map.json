@@ -875,7 +875,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/tilesets\/rpg_maker_wooden_floor_by_ayene_chan_d587fmi.png",
+         "image":"..\/tilesets\/wooden_floor.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -901,7 +901,7 @@
         {
          "columns":12,
          "firstgid":400,
-         "image":"..\/tilesets\/rpg_maker_vx___small_paintings_by_ayene_chan_d5lokmt.png",
+         "image":"..\/tilesets\/wall_paintings.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -914,7 +914,7 @@
         {
          "columns":7,
          "firstgid":496,
-         "image":"..\/tilesets\/pixel_food_assets_for_pikuniku_battle_free_to_use__by_meminmamon_dc17c1q (1).png",
+         "image":"..\/tilesets\/food.png",
          "imageheight":192,
          "imagewidth":224,
          "margin":0,
